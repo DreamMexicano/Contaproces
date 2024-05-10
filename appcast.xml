@@ -1,1 +1,16 @@
-reparar error despues de 2030 no toma los valores del 2030
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tu Aplicación Updates</title>
+    <link>https://github.com/DreamMexicano/Contaproces</link>
+    <description>Canal de actualizaciones para Contaproces</description>
+    <item>
+      <title>Version 0.1</title>
+      <description><![CDATA[Version inicial del programa]]></description>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/DreamMexicano/Contaproces/Contaproces v0.1.exe"
+                 sparkle:version="0.1"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
